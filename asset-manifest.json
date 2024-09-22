@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BookNest/static/css/main.728f4e95.css",
+    "main.js": "/BookNest/static/js/main.736ed97a.js",
+    "static/js/453.94fd2899.chunk.js": "/BookNest/static/js/453.94fd2899.chunk.js",
+    "static/media/book5.jpg": "/BookNest/static/media/book5.8b3fb12e8d7dff6adc2e.jpg",
+    "index.html": "/BookNest/index.html",
+    "main.728f4e95.css.map": "/BookNest/static/css/main.728f4e95.css.map",
+    "main.736ed97a.js.map": "/BookNest/static/js/main.736ed97a.js.map",
+    "453.94fd2899.chunk.js.map": "/BookNest/static/js/453.94fd2899.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.728f4e95.css",
+    "static/js/main.736ed97a.js"
+  ]
+}
